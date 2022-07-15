@@ -1,0 +1,4 @@
+.home-container {
+  @apply m-auto pb-10;
+  width: 90vw;
+}
